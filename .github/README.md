@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://i.ibb.co/q1gZN2p/web-check-logo.png" width="96" /><br />
-  <i>A fork of <a href="https://github.com/lissy93/web-check">Lissy93/Web-Check</a>, optimized for easy self-hosting</i><br />
+  <i>A forking of Lissy93/Web-Check, optimized for easy self-hosting</i><br />
   <b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
 </p>
 
