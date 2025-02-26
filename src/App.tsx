@@ -16,7 +16,7 @@ const Container = Styled.main`
 `;
 
 Sentry.init({
-  dsn: 'https://30eb6135d37643fb95c7da4e77a46142@glitch.as93.net/1',
+  dsn: 'https://e0f25608476642b7456b5b25798c8f99@o4508886807609344.ingest.us.sentry.io/4508886859579392',
   beforeSend(event) { // Check if error logging is disabled
     const ignoredHosts = ['localhost', '127.0.0.1'];
     const disableErrors = process.env.REACT_APP_DISABLE_ERROR_LOGGING;
