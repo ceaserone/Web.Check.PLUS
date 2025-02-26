@@ -1,12 +1,14 @@
 <p align="center">
   <img src="https://i.ibb.co/q1gZN2p/web-check-logo.png" width="96" /><br />
-  <i>A forking of Lissy93/Web-Check, optimized for easy self-hosting</i><br />
-  <b><i>Comprehensive, on-demand open source intelligence for any website</i></b>
+  
+  <b><i>Comprehensive, on-demand open source intelligence for any website, Optimized for easy deployment.</i></b>
 </p>
 
-Web Check - A browser based website info tool, pretty fricken awesome, "There are many like this but this one is mine." 
+Web Check - A browser based website info tool, solid code, awesome UI=NOICE!, "There are many like this but this one is mine." 
 
-If you want to see complete data and tutorial/description with extra stuff (some of the data in the original repo is extensive, personally, if you needed to know that much info about what this site does, you shouldn't be using it...but to each there own) Then go see 
-<a href="https://github.com/Lissy93/web-check" target="_blank" rel="noopener noreferrer">Lissy93 Original Web-Check Repo.</a>
+If you want to see complete data and tutorial/description with extra's, please go see it @ 
+<a href="https://github.com/Lissy93/web-check" target="_blank" rel="noopener noreferrer">Lissy93's Original Web-Check Repo.</a>
 
-I used Netlify which worked flawlessly with how Lissy93 set this up, so thanks for that!
+I used Netlify which worked flawlessly with how Lissy93 set this up, so I guve a big thanks for that!
+
+Deployment:[![Netlify Status](https://api.netlify.com/api/v1/badges/bbea3f14-26c8-4e1b-818f-925e0343bed7/deploy-status)](https://app.netlify.com/sites/synack-webcheck/deploys)
