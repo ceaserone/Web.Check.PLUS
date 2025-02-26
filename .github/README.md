@@ -11,5 +11,5 @@ If you want to see complete data and tutorial/description with extra's, please g
 
 I used Netlify which worked flawlessly with how Lissy93 set this up, so I give a big thanks for that!
 
-Deployment:[![Netlify Status](https://api.netlify.com/api/v1/badges/bbea3f14-26c8-4e1b-818f-925e0343bed7/deploy-status)](https://app.netlify.com/sites/synack-webcheck/deploys)
+Deployment:[![Netlify Status](https://api.netlify.com/api/v1/badges/bbea3f14-26c8-4e1b-818f-925e0343bed7/deploy-status)](https://app.netlify.com/sites/synack-webcheck/deploys)<br>
 Check it out @ <a href="https://synack-webcheck.netlify.app" target="_blank" rel="noopener noreferrer">SynAck-WebCheck.Netlify</a>
