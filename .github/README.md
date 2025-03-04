@@ -16,5 +16,5 @@ Check it out @ <a href="https://synack-webcheck.netlify.app" target="_blank" rel
 
 You can download the Android Web Check app <a href="https://ccb.wtf/1814" target="_blank" rel="noopener noreferrer">@ the SynAckNetwork fserve.</a>
 Couple App Screenshots (sorry android only 😜)
-![Screenshot 1](screenshot.jpg)
-![Screenshot 2](screenshot2.jpg)
+![Screenshot 1](https://raw.githubusercontent.com/ceaserone/Web.Check.PLUS/refs/heads/master/screenshot1.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/ceaserone/Web.Check.PLUS/refs/heads/master/screenshot2.jpg)
