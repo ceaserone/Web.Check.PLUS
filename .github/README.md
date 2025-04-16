@@ -14,7 +14,7 @@ I used Netlify which worked flawlessly with how Lissy93 set this up, so I give a
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bbea3f14-26c8-4e1b-818f-925e0343bed7/deploy-status)](https://app.netlify.com/sites/synack-webcheck/deploys)<br>
 Check it out @ <a href="https://synack-webcheck.netlify.app" target="_blank" rel="noopener noreferrer">SynAck-WebCheck.Netlify</a>
 
-You can download the Android Web Check app @ the SynAckNetwork fserve so go <a href="https://ccb.wtf/1814" target="_blank" rel="noopener noreferrer">Download the WebCheck.apk</a>
+You can download the Android Web Check app [Here](https://github.com/ceaserone/Web.Check.PLUS/blob/master/WebCheck-b1.apk)<br>
 Couple App Screenshots (sorry android only 😜)
 ![Screenshot 1](https://raw.githubusercontent.com/ceaserone/Web.Check.PLUS/refs/heads/master/screenshot2.jpg)
 ![Screenshot 2](https://raw.githubusercontent.com/ceaserone/Web.Check.PLUS/refs/heads/master/screenshot1.jpg)
